@@ -36,7 +36,7 @@ My resume is [here](https://drive.google.com/file/d/1r01I1QyyjWbq1WFdvkuTJzfzzyt
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OpariucRares&layout=compact&show_icons=true&theme=gruvbox&hide=asp.net,dart,php,c)
 
-![Opariuc Rares Github Stats](https://github-readme-stats.vercel.app/api?username=OpariucRares&show_icons=true&theme=gruvbox)
+<!--![Opariuc Rares Github Stats](https://github-readme-stats.vercel.app/api?username=OpariucRares&show_icons=true&theme=gruvbox) -->
 
 <!--
 **OpariucRares/OpariucRares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
