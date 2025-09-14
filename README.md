@@ -23,15 +23,15 @@
 
 <h3 align="left">Tools and Frameworks: </h3>
 <p align="left">
-<img alt="dotNet"  width="30px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"/>
+<img alt="dotNet"  width="30px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png"/>
 <img alt="react"   width="30px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-<img alt="angular" width="30px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
+<img alt="angular" width="30px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"/>
 <img alt="blazor"  width="30px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg"/>
 <img alt="spring"  width="30px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img alt="git"     width="30px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img alt="linux"   width="30px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img alt="gitHub"  width="30px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img alt="docker"  width="30px" height="40" src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" />
+<img alt="aws"     width="30px" height="40" src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" />
 <img alt="docker"  width="30px" height="40" src="https://www.svgrepo.com/show/349342/docker.svg" />
 </p>
 
